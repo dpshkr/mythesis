@@ -1,3 +1,4 @@
 [build]
   publish = "build/dirhtml"
   command = "make dirhtml"
+  environment = { PYTHON_VERSION = "3.13" }
