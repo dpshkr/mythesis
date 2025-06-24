@@ -30,4 +30,6 @@ html_theme_options = {
     'logo': 'Figures/iisclogo.png',
     'github_user': 'dpshkr',
     'github_repo': 'mythesis',
+    'body_text_align':'justify',
+    'show_relbar_bottom': True,
 }
