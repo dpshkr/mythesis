@@ -21,7 +21,7 @@ Electronic Devices using Low-Dimensional van der Waals Materials and Their Heter
 |
 
 .. image::
-	_static/Figures/iisclogo.jpg
+	_static/Figures/iisclogo.png
 	:width: 100
 
 
