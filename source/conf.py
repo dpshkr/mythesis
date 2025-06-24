@@ -27,7 +27,7 @@ exclude_patterns = []
 html_theme = 'alabaster'
 html_static_path = ['_static']
 html_theme_options = {
-    'logo': 'Figures/iisclogo.jpg',
+    'logo': 'Figures/iisclogo.png',
     'github_user': 'dpshkr',
     'github_repo': 'mythesis',
 }
