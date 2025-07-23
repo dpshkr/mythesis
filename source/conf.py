@@ -24,8 +24,9 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'furo'
 html_static_path = ['_static']
+'''
 html_theme_options = {
     'logo': 'Figures/iisclogo.png',
     'github_user': 'dpshkr',
@@ -33,3 +34,4 @@ html_theme_options = {
     'body_text_align':'justify',
     'show_relbar_bottom': True,
 }
+'''
