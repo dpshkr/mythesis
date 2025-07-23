@@ -1,0 +1,2 @@
+1. Novoselov, K.S., Geim, A.K., Morozov, S.V., Jiang, D., Katsnelson, M.I., Grigorieva, I.V., Dubonos, S.V. and Firsov, A.A., 2005. `"Two-dimensional gas of massless Dirac fermions in graphene" <https://www.nature.com/articles/nature04233>`_. Nature, 438(7065), pp.197-200.
+2. Iijima, S. and Ichihashi, T., 1993. `"Single-shell carbon nanotubes of 1-nm diameter" <https://www.nature.com/articles/363603a0>`_. Nature, 363(6430), pp.603-605.
