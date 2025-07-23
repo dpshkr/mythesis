@@ -33,9 +33,9 @@ Electronic Devices using Low-Dimensional van der Waals Materials and Their Heter
    declaration
    publications-based-on-this-thesis
    abstract
-   ch01/index
-   ch02/index
-   ch03/index
-   ch04/index
-   ch05/index
-   ch06/index
+   introduction/index
+   junctionless-tellurium-nanowire-transistor/index
+   self-aligned-reconfigurable-heterojunction-transistor/index
+   dual-channel-high-performance-fet/index
+   hot-electron-engineering-for-infrared-detection/index
+   conclusion-and-future-scope/index
