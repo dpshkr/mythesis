@@ -1,29 +1,29 @@
 References
 ============
 
-1.	Cui Y, Zhong Z, Wang D, Wang WU, Lieber CM. High performance silicon nanowire field effect transistors. Nano letters. 2003;3(2):149-152.
+1.	Cui Y, Zhong Z, Wang D, Wang WU, Lieber CM. High performance silicon nanowire field effect transistors. *Nano letters*. 2003;3(2):149-152.
  	 
-2.	Singh N, Agarwal A, Bera LK, et al. High-performance fully depleted silicon nanowire (diameter $\le$ 5 nm) gate-all-around CMOS devices. IEEE Electron Device Letters. 2006;27(5):383-386.
+2.	Singh N, Agarwal A, Bera LK, et al. High-performance fully depleted silicon nanowire (diameter < 5 nm) gate-all-around CMOS devices. *IEEE Electron Device Letters*. 2006;27(5):383-386.
  	 
-3.	Appenzeller J, Knoch J, Bjork MT, Riel H, Schmid H, Riess W. Toward nanowire electronics. IEEE Transactions on electron devices. 2008;55(11):2827-2845.
+3.	Appenzeller J, Knoch J, Bjork MT, Riel H, Schmid H, Riess W. Toward nanowire electronics. *IEEE Transactions on electron devices*. 2008;55(11):2827-2845.
  	 
-4.	Kuhn KJ. Considerations for ultimate CMOS scaling. IEEE transactions on Electron Devices. 2012;59(7):1813-1828.
+4.	Kuhn KJ. Considerations for ultimate CMOS scaling. *IEEE transactions on Electron Devices*. 2012;59(7):1813-1828.
  	 
-5.	Bohr MT, Young IA. CMOS scaling trends and beyond. IEEE Micro. 2017;37(6):20-29.
+5.	Bohr MT, Young IA. CMOS scaling trends and beyond. *IEEE Micro*. 2017;37(6):20-29.
  	 
 6.	Armasu L. https://www.tomshardware.com/news/samsung-3nm-gaafet-production-2021,38426.html. Published online 2019 (accessed June 26, 2020).
  	 
-7.	Lee BH, Hur J, Kang MH, et al. A vertically integrated junctionless nanowire transistor. Nano letters. 2016;16(3):1840-1847.
+7.	Lee BH, Hur J, Kang MH, et al. A vertically integrated junctionless nanowire transistor. *Nano Letters*. 2016;16(3):1840-1847.
  	 
-8.	Ikeda K, Ono M, Kosemura D, et al. High-mobility and low-parasitic resistance characteristics in strained Ge nanowire pMOSFETs with metal source/drain structure formed by doping-free processes. In: 2012 Symposium on VLSI Technology (VLSIT). IEEE; 2012:165-166.
+8.	Ikeda K, Ono M, Kosemura D, et al. High-mobility and low-parasitic resistance characteristics in strained Ge nanowire pMOSFETs with metal source/drain structure formed by doping-free processes. In: *2012 Symposium on VLSI Technology (VLSIT). IEEE*; 2012:165-166.
  	 
-9.	Fang WW, Singh N, Bera LK, et al. Vertically stacked SiGe nanowire array channel CMOS transistors. IEEE electron device letters. 2007;28(3):211-213.
+9.	Fang WW, Singh N, Bera LK, et al. Vertically stacked SiGe nanowire array channel CMOS transistors. *IEEE Electron Device Letters*. 2007;28(3):211-213.
  	 
-10.	Wang D, Wang Q, Javey A, et al. Germanium nanowire field-effect transistors with $\mathrmSiO_2 and high-\kappa \mathrmHfO_2$ gate dielectrics. Applied Physics Letters. 2003;83(12):2432-2434.
+10.	Wang D, Wang Q, Javey A, et al. Germanium nanowire field-effect transistors with MoS₂ and high-κ HfO₂ gate dielectrics. *Applied Physics Letters*. 2003;83(12):2432-2434.
  	 
-11.	Lee CW, Afzalian A, Akhavan ND, Yan R, Ferain I, Colinge JP. Junctionless multigate field-effect transistor. Applied Physics Letters. 2009;94(5):053511.
+11.	Lee CW, Afzalian A, Akhavan ND, Yan R, Ferain I, Colinge JP. Junctionless multigate field-effect transistor. *Applied Physics Letters*. 2009;94(5):053511.
  	 
-12.	Gundapaneni S, Ganguly S, Kottantharayil A. Enhanced Electrostatic Integrity of Short-Channel Junctionless Transistor With High-κ Spacers. IEEE Electron Device Letters. 2011;32(10):1325-1327.
+12.	Gundapaneni S, Ganguly S, Kottantharayil A. Enhanced Electrostatic Integrity of Short-Channel Junctionless Transistor With High-κ Spacers. *IEEE Electron Device Letters*. 2011;32(10):1325-1327.
  	 
 13.	Jin S, Fischetti MV, Tang TW. Modeling of electron mobility in gated silicon nanowires at room temperature: Surface roughness scattering, dielectric screening, and band nonparabolicity. Journal of Applied Physics. 2007;102(8):083715.
  	 
