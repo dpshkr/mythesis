@@ -1,4 +1,4 @@
-Thesis Organizatiom
+Thesis Organization
 =====================
 
 The rest of the thesis is organized into the following chapters -
