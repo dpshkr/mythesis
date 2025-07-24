@@ -39,3 +39,4 @@ Electronic Devices using Low-Dimensional van der Waals Materials and Their Heter
    dual-channel-high-performance-fet/index
    hot-electron-engineering-for-infrared-detection/index
    conclusion-and-future-scope/index
+   bibliography
