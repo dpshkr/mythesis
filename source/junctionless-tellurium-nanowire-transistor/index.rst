@@ -18,4 +18,4 @@ mobility :cite:`zhu2017multivalency`. As the bulk Te is reduced to smaller dimen
    :maxdepth: 1
    :caption: Contents:
    
-   references
+   synthesis-and-characterization-of-te-nanowires
