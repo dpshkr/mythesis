@@ -32,7 +32,7 @@ and the other after plasma cleaning for 20 s, respectively. The plasma-cleaned n
 
 The electrical characteristics of a nanowire without plasma cleaning are shown in :ref:`Figures 2.5 <ch01-plasma-clean-03>`\(a) at various temperatures from 7 to 200 K. The characteristics show very low current levels and fast current saturation.
 Such an observation has also been made previously for devices using two-dimensional layer materials
-:cite:p:`ho2017high`. On the other hand, the nanowires with plasma cleaning show a 1000-fold enhancement in the current drive at similar external bias, indicating superior contact quality as shown in :ref:`Figures 2.5 <ch01-plasma-clean-03>`\(b)
+:cite:p:`ho2017high`. On the other hand, the nanowires with plasma cleaning show a 1000-fold enhancement in the current drive at similar external bias, indicating superior contact quality as shown in :ref:`Figures 2.5 <ch01-plasma-clean-03>`\(b).
 
 .. _ch01-plasma-clean-03:
 
