@@ -21,7 +21,7 @@ and subsequently two times using ethanol.
 
 .. figure:: ../_static/Figures/01_01.png
 
-   **Figure 2.1:** X-ray diffraction pattern of Te nanowires, which correspond to P3₁21 rhombohedral phase of Te. Inset: Crystal structure of hexagonal Te chains along the c-axis. Solid lines indicate covalent bonding, while each chain is bonded to other by van der Waals bonds. (b) TEM image of the nanowires. (c) SAED from Te nanowire (bright-field image shown in the inset) showing single-crystalline nature (corresponding to [:math:`1\bar{1}0`] zone axis)
+   **Figure 2.1:** (a) X-ray diffraction pattern of Te nanowires, which correspond to P3₁21 rhombohedral phase of Te. Inset: Crystal structure of hexagonal Te chains along the c-axis. Solid lines indicate covalent bonding, while each chain is bonded to other by van der Waals bonds. (b) TEM image of the nanowires. (c) SAED from Te nanowire (bright-field image shown in the inset) showing single-crystalline nature (corresponding to [:math:`1\bar{1}0`] zone axis)
 
 **Structural and microstructural characterization of Te nanowire:** Synthesized Te nanowires have been characterized by X-ray diffraction (XRD) using a Rigaku X-ray Diffractometer with Cu Kα source. :ref:`Figure 2.1 <ch01-material-char-01>`\(a) represents the XRD pattern of the nanowire which corresponds to the rhombohedral phase P3₁21 of Te (JCPDS : 361452) with lattice parameters
 of a = b = 4.45 Å, c = 5.9 Å.
