@@ -1,0 +1,20 @@
+Device Fabrication
+====================
+
+The step-by-step fabrication process of the junctionless FET is illustrated in Figure \ref{fig:plasma_clean_01}. 
+We drop cast the Te nanowires onto a degenerately doped Si substrate coated with 285 nm thick, thermally grown, high quality SiO₂. 
+A low-power Ar treatment is then performed to remove any residual PVP coating from the nanowires. 
+A thin layer of high-quality hBN (∼ 15 nm) is immediately transferred onto the nanowire using a dry transfer technique :cite:p:`Castellanos_Gomez_2014` to define the top gate dielectric. 
+The atomically smooth surface of the dangling-bond-free hBN gate dielectric provides an ideal interface with the dangling-bond-free Te nanowire channel.
+
+Subsequently, electron beam lithography is performed to define the source, the drain, and the gate metallization areas. 
+To remove any unintentional residue and surface oxidation :cite:p`lan2007dispersibility` from the source/drain region of the
+nanowire, a second plasma cleaning step is performed, which improves the contact interface quality. 
+Ni/Au is then deposited using DC magnetron sputtering, followed by lift-off in acetone to complete the device fabrication. 
+More details of the fabrication are provided in Appendix \ref{a01_00}.
+
+We find that an optimum plasma cleaning is a crucial step in the fabrication, which helps remove residual PVP capping layer and possible interfacial oxide, improving the interface quality and reducing the contact resistance. A careful optimization shows that Ar plasma cleaning for 20 s at a power level of \texthighlight{10 W (electrode area of 10 cm diameter)}  and a pressure of 10 mbar results in the optimum device performance. The Figs. \ref{fig:plasma_clean_02}(a)-(b)
+show the STEM images of two different nanowires, one without the plasma cleaning
+and the other after plasma cleaning for 20 s, respectively. The plasma-cleaned nanowire clearly shows superior surface quality. 
+The electrical characteristics of a nanowire without plasma cleaning are shown in Figure \ref{fig:plasma_clean_03}(a) at various temperatures from 7 to
+200 K. The characteristics show very low current levels and fast current saturation.
